@@ -10,7 +10,7 @@ const CarWidget = ({src,alt}) => {
     );
 };
 
-export default NavBar;
+export default CarWidget;
 
 
 

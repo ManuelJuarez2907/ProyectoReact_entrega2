@@ -1,6 +1,8 @@
 import React from 'react';
 import './NavBar.css'
 
+import CarWidget from '../CarWidget/CarWidget'
+
 const NavBar = ({children}) => {
     return (
         <div className='NavBar'>
