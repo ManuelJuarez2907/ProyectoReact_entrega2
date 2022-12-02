@@ -1,0 +1,6 @@
+.CarWidget{
+  height: 10px;
+  width: 10px;
+  border-radius: 25%;
+  object-fit: cover;
+}
