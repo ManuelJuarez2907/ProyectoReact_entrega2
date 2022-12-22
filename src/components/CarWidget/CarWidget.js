@@ -10,7 +10,5 @@ const CarWidget = ({src,alt}) => {
     );
 };
 
+
 export default CarWidget;
-
-
-
